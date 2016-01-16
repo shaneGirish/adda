@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A slightly different chat tool",
   "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shaneGirish/adda.git"
