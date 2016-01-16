@@ -1,0 +1,23 @@
+{
+  "name": "adda",
+  "version": "1.0.0",
+  "description": "A slightly different chat tool",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaneGirish/adda.git"
+  },
+  "author": "Shane Girish <shaneGirish@gmail.com>",
+  "contributors": [
+    "Shane Girish <shaneGirish@gmail.com>",
+    "Ankita Narayan <girish.ankita@gmail.com> (http://ankita.ink/)"
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/shaneGirish/adda/issues"
+  },
+  "homepage": "https://github.com/shaneGirish/adda#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
